@@ -13,4 +13,4 @@ media/
 .env
 .env.*
 !.env.example
-local_settings.py
+local_settings.py
